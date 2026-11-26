@@ -65,7 +65,7 @@ ulimit -s 1048576
 | [`./parsing`](./parsing) | Imperative language parser and supporting proofs. |
 | [`./fp2imp`](./fp2imp) | FP-to-IMPL code generator and correctness proof. |
 | [`./imp2asm`](./imp2asm) | IMPL-to-ASM code generator, compiler pipeline, and correctness proofs. |
-| [`./automation`](./automation), [`./plugin`](./plugin) | Reification tactics, supporting lemmas, and tactic syntax. |
+| [`./automation`](./automation) | Reification tactics and supporting lemmas. |
 | [`./derivations`](./derivations) | Reified compiler functions and their correctness certificates. |
 | [`./bootstrapping`](./bootstrapping) | Bootstrapping definitions, computation, and output of compiler files. |
 | [`./commons`](./commons), [`./utils`](./utils) | Shared compiler definitions and proof utilities. |
